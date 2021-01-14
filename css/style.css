@@ -1,0 +1,51 @@
+
+
+
+
+h1{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 80px;
+}
+h2{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 50px;
+}
+.font{
+    font-weight: 500;
+}   
+
+.button-tomato{
+    color: white;
+    background-color: tomato;
+    border-radius: 5px;
+    border: 0;
+    width: 150px;
+    height: 50px;
+    align-items: center;
+    
+    
+}
+
+.golden-highlight, h3{
+    color: #fa804c;
+}
+h3{
+    font-weight: 1000;
+}
+
+.penguin-card{
+    border: 0;
+    border-radius: 1em;   
+}
+
+
+.penguin-card-footer{
+    background-color: white;
+    border: 0;
+}
+.bg-tomato{
+    background-color: tomato;
+}
+
+
+
